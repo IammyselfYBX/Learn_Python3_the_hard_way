@@ -1,0 +1,1 @@
+![ex6.png](ex6.png)
