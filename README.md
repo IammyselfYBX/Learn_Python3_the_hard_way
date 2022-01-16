@@ -2,6 +2,11 @@
 ![笨方法学python3.jpg](笨方法学python3.jpg)
 本仓库代码是在linux环境运行
 ![manjaro.png](manjaro.png)
+
+[笨方法学python3(中文字幕)](https://www.bilibili.com/video/BV1aE411V7xc)
+
+[笨方法学Python3习题演示](https://www.bilibili.com/video/BV1ma411q765/)
+
 # 目录
 [TOC]
 # Python官网
