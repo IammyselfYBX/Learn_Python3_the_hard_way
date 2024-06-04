@@ -7,6 +7,8 @@
 
 [笨方法学Python3习题演示](https://www.bilibili.com/video/BV1ma411q765/)
 
+[笨方法学python3书籍](https://github.com/SeleneStar/Learn_Python3_the_hard_way-book)
+
 # 目录
 [TOC]
 # Python官网
